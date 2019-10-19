@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\XPS\\Desktop\\Udemy\\Mosh\\1-Basics_for_Beginners\\Exercise_04\\Exercise_04.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\XPS\\Desktop\\Udemy\\Mosh\\1-Basics_for_Beginners\\Exercise_04\\Exercise_04.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\XPS\\Desktop\\Udemy\\Mosh\\1-Basics_for_Beginners\\Exercise_04\\Exercise_04.csproj",
+        "projectName": "Exercise_04",
+        "projectPath": "C:\\Users\\XPS\\Desktop\\Udemy\\Mosh\\1-Basics_for_Beginners\\Exercise_04\\Exercise_04.csproj",
+        "packagesPath": "C:\\Users\\XPS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\XPS\\Desktop\\Udemy\\Mosh\\1-Basics_for_Beginners\\Exercise_04\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

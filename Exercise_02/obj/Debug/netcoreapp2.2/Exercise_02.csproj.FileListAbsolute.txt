@@ -1,0 +1,11 @@
+C:\Users\XPS\Desktop\Udemy\Mosh\1-Basics_for_Beginners\Exercise_02\bin\Debug\netcoreapp2.2\Exercise_02.deps.json
+C:\Users\XPS\Desktop\Udemy\Mosh\1-Basics_for_Beginners\Exercise_02\bin\Debug\netcoreapp2.2\Exercise_02.runtimeconfig.json
+C:\Users\XPS\Desktop\Udemy\Mosh\1-Basics_for_Beginners\Exercise_02\bin\Debug\netcoreapp2.2\Exercise_02.runtimeconfig.dev.json
+C:\Users\XPS\Desktop\Udemy\Mosh\1-Basics_for_Beginners\Exercise_02\bin\Debug\netcoreapp2.2\Exercise_02.dll
+C:\Users\XPS\Desktop\Udemy\Mosh\1-Basics_for_Beginners\Exercise_02\bin\Debug\netcoreapp2.2\Exercise_02.pdb
+C:\Users\XPS\Desktop\Udemy\Mosh\1-Basics_for_Beginners\Exercise_02\obj\Debug\netcoreapp2.2\Exercise_02.csprojAssemblyReference.cache
+C:\Users\XPS\Desktop\Udemy\Mosh\1-Basics_for_Beginners\Exercise_02\obj\Debug\netcoreapp2.2\Exercise_02.csproj.CoreCompileInputs.cache
+C:\Users\XPS\Desktop\Udemy\Mosh\1-Basics_for_Beginners\Exercise_02\obj\Debug\netcoreapp2.2\Exercise_02.AssemblyInfoInputs.cache
+C:\Users\XPS\Desktop\Udemy\Mosh\1-Basics_for_Beginners\Exercise_02\obj\Debug\netcoreapp2.2\Exercise_02.AssemblyInfo.cs
+C:\Users\XPS\Desktop\Udemy\Mosh\1-Basics_for_Beginners\Exercise_02\obj\Debug\netcoreapp2.2\Exercise_02.dll
+C:\Users\XPS\Desktop\Udemy\Mosh\1-Basics_for_Beginners\Exercise_02\obj\Debug\netcoreapp2.2\Exercise_02.pdb

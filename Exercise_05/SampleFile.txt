@@ -1,0 +1,2 @@
+Hello, my name is Howard. I am taking a course on C# Basics to get better at programming.
+Strong foundation is important!
